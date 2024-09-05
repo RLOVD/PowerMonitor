@@ -1,0 +1,3 @@
+[submodule "lib/INA3221"]
+	path = lib/INA3221
+	url = git@github.com:Tinyu-Zhao/INA3221.git
